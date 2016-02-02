@@ -10,7 +10,7 @@ public class ObstacleSpawner : MonoBehaviour {
 	private List<GameObject> obstaclesForSpawing = new List<GameObject>();
 	
 	void Awake() {
-		InitializeObstacles ();
+		//InitializeObstacles ();
 	}
 	
 	void Start () {
